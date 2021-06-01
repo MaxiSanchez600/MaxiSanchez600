@@ -1,4 +1,4 @@
-## [![stephen ajulu's header](https://github.com/stephenajulu/stephenajulu/blob/master/images/edited%20header.png)](https://stephenajulu.com)
+## [![stephen ajulu's header](https://github.com/MaxiSanchez600/MaxiSanchez600/blob/main/BannerHeader.PNG)](https://stephenajulu.com)
 
 
 ### ¡Hola! Soy Maxi 👊🏻
