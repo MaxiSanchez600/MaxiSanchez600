@@ -43,3 +43,11 @@ con mis amigos y colegas. Una web para un cliente de Chile, para mostrar sus cab
 
 <a href="http://xn--cabaasantuen-dhb.com/">Antuen Cabañas</a>
 
+<h3 align="center">Pill Reminder </h3>
+<p>Un proyecto un poco mas viejo, y con tecnologias diferentes a las aplicadas en los anteriores, pero no deja de ser de mis primeros proyectos, y gracias a el tuve la oportunidad de salir en television, por el canal de La Nacion, en el minuto 1:11, ¡Aqui! (Donde tambien se muestra todo el proyecto). Un pastillero automatico, para aquellas personas mayores que tienen que tomar muchas medicaciones, y les es dificil recordar los horarios y cuales. Las tecnologias que implementamos fueron  <b>C# | SQL | Puerto Paralelo y distintas tecnologias para el desartollo del Hardware</b></p>
+
+
+
+
+
+<a href="http://xn--cabaasantuen-dhb.com/">Antuen Cabañas</a>
