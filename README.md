@@ -43,4 +43,3 @@ con mis amigos y colegas. Una web para un cliente de Chile, para mostrar sus cab
 
 <a href="http://xn--cabaasantuen-dhb.com/">Antuen Cabañas</a>
 
-http://xn--cabaasantuen-dhb.com/
