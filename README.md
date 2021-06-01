@@ -42,5 +42,5 @@ https://user-images.githubusercontent.com/29823991/120336677-f4b9d800-c2c8-11eb-
 con mis amigos y colegas. Una web para un cliente de Chile, para mostrar sus cabañas, y ademas agregar, modificar y eliminar estas a traves de un CRM y un user admin desarollado en PHP. Las tecnologias que implementamos fueron  <b>HTML | CSS | PHP | SQL | Node | WordPress</b></p>
 
 <a href="http://xn--cabaasantuen-dhb.com/">Antuen Cabañas</a>
-<p> Tambien tengo muchos proyectos viejos, que desarolle con tecnologias muy diferentes a las aplicadas en los anteriores, uno de ellos es <b>Pill Reminder> que me dio la posibilidad de ser entrevistado en television, en estuve nuevamente de Full Stack Developer, pero implementando tecnologias como C#, SQL y Puerto Paralelo. Pueden ver el proyecto <a href="https://www.youtube.com/watch?v=4UivcSbjLdM">¡Aqui!</a> en el minuto <b>1:30</b>
+<p> Tambien tengo muchos proyectos viejos, que desarolle con tecnologias muy diferentes a las aplicadas en los anteriores, uno de ellos es <b>Pill Reminder</b> que me dio la posibilidad de ser entrevistado en television, en estuve nuevamente de Full Stack Developer, pero implementando tecnologias como C#, SQL y Puerto Paralelo. Pueden ver el proyecto <a href="https://www.youtube.com/watch?v=4UivcSbjLdM">¡Aqui!</a> en el minuto <b>1:30</b>
 
