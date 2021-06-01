@@ -23,6 +23,6 @@ Algunas de las tecnologías Back End que manejo:
 <h3 align="center">PokeMax 👾</h3>
 <p>Una PokeDex, pero con mi propio estilo, y desarollada en 5 dias durante mi paso por Henry. La aplicacion solicita la informacion de la api de Pokemon mas una base de datos local, y te permite crear nuevos Pokemons, filtrarlos y ordenardos por tipo de Pokemon, creados por nosotros, poder, etc. Las tecnologias que implemente fueron <b>HTML | CSS | ReactJs | Redux | Express | Sequelize | SQL | PostgreSQL | Node</b> </p>
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
+
+https://user-images.githubusercontent.com/29823991/120333973-9986e600-c2c6-11eb-9763-d7a54d61da49.mp4
+
