@@ -28,7 +28,9 @@ https://user-images.githubusercontent.com/29823991/120333973-9986e600-c2c6-11eb-
 
 <p>Deploy coming soon!</p>
 
-<h3 align="center">PokeMax 👾</h3>
-<p>Una PokeDex, pero con mi propio estilo, y desarollada en 5 dias durante mi paso por Henry. La aplicacion solicita la informacion de la api de Pokemon mas una base de datos local, y te permite crear nuevos Pokemons, filtrarlos y ordenardos por tipo de Pokemon, creados por nosotros, poder, etc. Las tecnologias que implemente fueron <b>HTML | CSS | ReactJs | Redux | Express | Sequelize | SQL | PostgreSQL | Node</b> </p>
+<h3 align="center">FastRead </h3>
+<p>Una extension de Google Chrome, que busca agilizar los tiempos de lectura y cambiar la forma en la que la persona comun lee. Ya esta la web terminada y yo estoy terminando la extension, que fue un camino dificil ya que hay documentacion muy escasa a la hora de combinar Google Chrome Extensions con React. Las tecnologias que implemente fueron  <b>HTML | CSS | ReactJs | Redux | Chrome Extensions | Node</b></p>
+
+
 
 
