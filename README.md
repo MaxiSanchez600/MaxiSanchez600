@@ -1,3 +1,6 @@
+## [![stephen ajulu's header](https://github.com/stephenajulu/stephenajulu/blob/master/images/edited%20header.png)](https://stephenajulu.com)
+
+
 ### ¡Hola! Soy Maxi 👊🏻
 
 Soy un developer de Argentina, Buenos Aires, que comenzo a aprender sus primeros conceptos de programacion hace ya unos 5 años. Buscando crecer como persona y como profesional, aprender nuevos conceptos de mi interés tanto a través del estudio como de la practica son mi máximo disfrute, siempre dispuesto a aprender y incorporar nuevas herramientas!
