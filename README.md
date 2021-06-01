@@ -12,5 +12,10 @@ Actualmente me encuentro enfocado en el área de desarrollo de Software, incorpo
 ### Algunas de mis tecnologias 🔧
 
 <p align="center">
-  <p>>JavaScript</p>
+  <p>>JAVASCRIPT</p>
+  <p>>REACTJS</p>
+  <p>>REDUX</p>
+  <p>>EXPRESS</p>
+  <p>>NODEJS</p>
+  <p>>SEQUILIEZE</p>
 </p>
