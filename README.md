@@ -31,6 +31,12 @@ https://user-images.githubusercontent.com/29823991/120333973-9986e600-c2c6-11eb-
 <h3 align="center">FastRead </h3>
 <p>Una extension de Google Chrome, que busca agilizar los tiempos de lectura y cambiar la forma en la que la persona comun lee. Ya esta la web terminada y yo estoy terminando la extension, que fue un camino dificil ya que hay documentacion muy escasa a la hora de combinar Google Chrome Extensions con React. Las tecnologias que implemente fueron  <b>HTML | CSS | ReactJs | Redux | Chrome Extensions | Node</b></p>
 
+https://fastread.online/
+
+
+https://user-images.githubusercontent.com/29823991/120336677-f4b9d800-c2c8-11eb-8efd-22c2eaaabd5c.mp4
+
+
 
 
 
