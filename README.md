@@ -9,13 +9,14 @@ Soy un developer de Argentina, Buenos Aires, que comenzo a aprender sus primeros
 
 Actualmente me encuentro enfocado en el área de desarrollo de Software, incorporando nuevas tecnologías tanto para Frontend como para Backend, constantemente desarollando proyectos tanto para mi aprendizaje como para cambiar el mundo.
 
-### Algunas de mis tecnologias 🔧
+### ¿Con que tecnologias estoy trabajando ultimamente? 🔧
 
-<p align="center">
-  <p>>JAVASCRIPT</p>
-  <p>>REACTJS</p>
-  <p>>REDUX</p>
-  <p>>EXPRESS</p>
-  <p>>NODEJS</p>
-  <p>>SEQUILIEZE</p>
-</p>
+Algunas de las tecnologías Front End que manejo:
+<b>HTML | CSS | JavaScript | React Js | React Redux | React Native | NodeJs | Typescript | JQuery</b>
+
+Algunas de las tecnologías Back End que manejo:
+<b>Express | Sequelize | SQL | Firebase | Mongo</b>
+
+
+### Algunos de mis proyectos 👩🏻‍💻
+
