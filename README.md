@@ -41,6 +41,6 @@ https://user-images.githubusercontent.com/29823991/120336677-f4b9d800-c2c8-11eb-
 <p>Uno de los primeros proyectos que encaramos con la agencia de marketing digital <a href="https://www.lupdigital.com/">Lup Digital</a>
 con mis amigos y colegas. Una web para un cliente de Chile, para mostrar sus cabañas, y ademas agregar, modificar y eliminar estas a traves de un CRM y un user admin desarollado en PHP. Las tecnologias que implementamos fueron  <b>HTML | CSS | PHP | SQL | Node | WordPress</b></p>
 
-<a href="https://www.cabañasantuen.com">Antuen Cabañas</a>
+<a href="http://xn--cabaasantuen-dhb.com/">Antuen Cabañas</a>
 
-
+http://xn--cabaasantuen-dhb.com/
